@@ -1,0 +1,9 @@
+<div class="mycontactform">
+<div class="c-header">
+<div><img class="c-img" src="/wp-content/uploads/Vizirent-Visual-Capture-Equipment-Rental-Icon-Light-Price.png" /></div>
+<p><span class="c-title">Daftar Harga Vizirent</span></p>
+</div>
+</div>
+<div class="price-sub top">Harga penyewaan <b>PER 23 JAM</b> dari jam <b>08:00 - 21:00</b>, <b style="color: red;">BUKAN 24 JAM</b>!</div>
+<div class="price-sub bottom">Contoh: Penyewaan alat atau pengambilan alat dimulai jam 18.00 (jika alat sudah tersedia) dan max jam 22.00 lalu pengembalian alat maksimal jam 21.00 hari berikutnya, atau Sewa di hari yang sama, alat diambil minimal jam 08.00 lalu dikembalikan max jam 21.00 di hari yang sama.</div>
+<p>[gdoc key="1CeThaEdJKVz7z-Kh-k3teB6tGWUYMZOFJL6YJ1Ul5eg" class="vizi-price-table no-responsive" datatables_paging="false" datatables_ordering="false" use_cache="no"]</p>

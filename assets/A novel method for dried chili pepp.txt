@@ -1,0 +1,13 @@
+A novel method for dried chili pepper classification using artificial intelligence V
+
+Klasifikasi Kualitas Citra Cabai Dengan Menggunakan Algoritma Gradien Boosting
+
+Classification of Dried Chili Quality Using Image Processing V
+
+RF-Based Moisture Content Determination in Rice Using Machine Learning Techniquesv
+
+Chili Quality Classification using Deep Learning v
+
+Convolutional Neural Networks Implementation for Chili Classification V
+
+Pengenalan Tanaman Cabai Dengan Menggunakan Teknik Klasifikasi Menggunakan CNN

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171638354714",
+    "project_id": "cabai-bbf3f",
+    "storage_bucket": "cabai-bbf3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171638354714:android:8e36b2e847ea45680872a3",
+        "android_client_info": {
+          "package_name": "com.company.cabai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiET75pNgi4ljpbrDTwUu4T9KIxhsBxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171638354714:android:3b6c65182bfa0d010872a3",
+        "android_client_info": {
+          "package_name": "com.company.kualitascabai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiET75pNgi4ljpbrDTwUu4T9KIxhsBxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
